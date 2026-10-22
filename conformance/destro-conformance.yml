@@ -1,0 +1,22 @@
+generated: '2026-10-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.papermark.com/security
+sources:
+- https://www.papermark.com/security
+standards:
+- id: soc2
+  conforms: true
+  evidence: Papermark has achieved SOC 2 Type II certification, demonstrating our commitment to the highest standards of security, availability,
+    and confidentiality.
+- id: iso-27001
+  conforms: true
+  evidence: Papermark is certified against ISO/IEC 27001, the international standard for information security management.
+- id: ccpa
+  conforms: true
+  evidence: CCPA Rights California residents are entitled to learn what data we collect, request deletion, and opt out of sale (sharing).
+- id: csa-star
+  conforms: true
+  evidence: CalOPPA requires commercial websites to post a privacy policy and disclose how personal information is collected and shared.
+docs: https://www.papermark.com/security
+note: 1 extracted row(s) were dropped because their quote was not on the page.

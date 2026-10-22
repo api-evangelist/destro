@@ -1,0 +1,31 @@
+generated: '2026-10-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://www.papermark.com/pricing
+sources:
+- https://www.papermark.com/pricing
+name: Destro pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: Free
+  price_text: €0 /month
+  price: 0
+  description: 1 team member, 50 links, 50 documents, unlimited visitors, page‑by‑page analytics, document sharing controls
+- name: Pro
+  price_text: €24 /month
+  price: 24
+  description: Everything in Free, plus unlimited links, 100 documents, large file uploads, custom branding, videos and more file types, creating
+    folders
+- name: Business
+  price_text: €59 /month
+  price: 59
+  description: Everything in Pro, plus 3 team members, 1000 documents, custom domain for documents, multi‑file sharing, unlimited folder levels,
+    email verification, screenshot protection, webhooks, MCP, API, CLI
+- name: Data Rooms
+  price_text: €99 /month
+  price: 99
+  description: Everything in Business, plus 3 team members, unlimited data room visitors, unlimited data rooms, unlimited encrypted storage, no
+    file size limit, custom domain for data rooms, data room branding, analytics, NDA agreements, dynamic watermark, granular file‑level permissions,
+    groups, 24/7 email support
+docs: https://www.papermark.com/pricing
